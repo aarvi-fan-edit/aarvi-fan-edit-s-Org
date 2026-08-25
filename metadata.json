@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Frames Vault",
+  "description": "A dark, cinematic celebrity photography archive featuring editorial galleries, masonry photo grid, search and category filters, lightbox viewer, and curator portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

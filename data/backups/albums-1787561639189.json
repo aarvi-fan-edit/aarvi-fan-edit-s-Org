@@ -1,0 +1,69 @@
+[
+  {
+    "id": "album-cannes-2026",
+    "title": "Cannes Film Festival 2026",
+    "description": "Grand Palais arrivals, evening gala, and press photocall on the French Riviera.",
+    "category": "Red Carpet",
+    "year": "2026",
+    "date": "2026-05-18",
+    "location": "Cannes, France",
+    "coverPhotoId": "sample-p2",
+    "photoIds": [
+      "sample-p2",
+      "sample-p9",
+      "sample-p8"
+    ],
+    "createdAt": "2026-05-18T00:00:00.000Z",
+    "updatedAt": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "id": "album-editorial-noir",
+    "title": "Editorial — Noir & Silk",
+    "description": "High-contrast monochrome studio sitting focusing on movement, silhouette and rim light.",
+    "category": "Editorial",
+    "year": "2026",
+    "date": "2026-02-14",
+    "location": "Studio 01, London",
+    "coverPhotoId": "sample-hero",
+    "photoIds": [
+      "sample-hero",
+      "sample-p5",
+      "sample-p6"
+    ],
+    "createdAt": "2026-02-14T00:00:00.000Z",
+    "updatedAt": "2026-02-14T00:00:00.000Z"
+  },
+  {
+    "id": "album-monochrome-sessions",
+    "title": "Monochrome Sessions",
+    "description": "Intimate portrait studies captured on 35mm film in natural window light and city architecture.",
+    "category": "Photoshoots",
+    "year": "2025",
+    "date": "2025-11-02",
+    "location": "Mumbai",
+    "coverPhotoId": "sample-p1",
+    "photoIds": [
+      "sample-p1",
+      "sample-p3",
+      "sample-p7"
+    ],
+    "createdAt": "2025-11-02T00:00:00.000Z",
+    "updatedAt": "2025-11-02T00:00:00.000Z"
+  },
+  {
+    "id": "album-gala-evenings",
+    "title": "Gala Evenings & Backstage",
+    "description": "Candid moments between takes, award presentations, and backstage atmosphere.",
+    "category": "Events",
+    "year": "2025",
+    "date": "2025-09-18",
+    "location": "Met Gala & Charity Gala",
+    "coverPhotoId": "sample-p4",
+    "photoIds": [
+      "sample-p4",
+      "sample-p8"
+    ],
+    "createdAt": "2025-09-18T00:00:00.000Z",
+    "updatedAt": "2025-09-18T00:00:00.000Z"
+  }
+]
